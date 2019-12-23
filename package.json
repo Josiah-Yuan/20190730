@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "zxt": "lessc css/index.less css/index.min.css -x"
-
   },
   "repository": {
     "type": "git",
@@ -21,6 +20,7 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "jquery": "^3.4.1",
-    "less": "^3.10.3"
+    "less": "^3.10.3",
+    "zepto": "^1.2.0"
   }
 }
