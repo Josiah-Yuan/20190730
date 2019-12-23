@@ -1,0 +1,26 @@
+{
+  "name": "20191221",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zxt": "lessc css/index.less css/index.min.css -x"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josiah-Yuan/20190730.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josiah-Yuan/20190730/issues"
+  },
+  "homepage": "https://github.com/Josiah-Yuan/20190730#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "less": "^3.10.3"
+  }
+}
